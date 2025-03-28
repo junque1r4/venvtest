@@ -1,0 +1,28 @@
+# --- Web Development ---
+Flask
+Django
+requests
+
+# --- Data Science & Machine Learning ---
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# --- General Utility ---
+python-dotenv
+datetime
+PyYAML
+toml
+click
+pathlib
+
+# --- Testing ---
+pytest
+requests-mock
+coverage
+mock
+faker
+behave
+e
